@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="433 405 396.145 92.97247" width="396.145" height="92.97247">
+  <defs/>
+  <g id="Canvas_1" stroke-dasharray="none" stroke-opacity="1" stroke="none" fill-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <text transform="translate(611.305 410)" fill="#929292">
+          <tspan font-family="Helvetica Neue" font-size="68" fill="#929292" x="5684342e-20" y="65">Search</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(500.452 410)" fill="#2b538b">
+          <tspan font-family="Helvetica Neue" font-size="68" fill="#2b538b" x="0" y="66">LCI</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(438 413.97247)" fill="#2b538b">
+          <tspan font-family="Apple Color Emoji" font-size="60" fill="#2b538b" x="0" y="60">🫁</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
