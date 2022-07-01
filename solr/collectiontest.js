@@ -34,7 +34,7 @@
     // Download the data
     myConnector.getData = function(table, doneCallback) {
         var url;
-        url = "http://lci-dev.whiterivercomputing.com/wdc/solr/collections.json";
+        url = "https://lci-dev.whiterivercomputing.com/wdc/solr/collections.json";
         $.getJSON(url, function(resp) {
             var docs = resp.response.docs,
                 tableData = [];
